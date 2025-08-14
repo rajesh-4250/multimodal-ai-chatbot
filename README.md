@@ -22,3 +22,12 @@ Built with **Python**, **Speech Recognition**, **Text-to-Speech**, and **Image U
 - **Image Processing:** OpenAI Vision API
 - **Environment:** Local execution
 
+---
+
+## 🚀 Getting Started
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/rajesh-4250/multimodal-ai-chatbot.git
+cd multimodal-ai-chatbot
+

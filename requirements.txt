@@ -1,0 +1,24 @@
+# Core AI API
+google-generativeai
+python-dotenv
+
+# Voice recognition & audio
+speechrecognition
+pyaudio
+elevenlabs
+
+# Text-to-speech
+gtts
+pyttsx3
+
+# Image processing
+pillow
+
+# Webcam & camera access
+opencv-python
+
+# Optional for cleaner CLI menus
+colorama
+
+# HTTP requests
+requests
